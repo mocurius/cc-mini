@@ -46,6 +46,9 @@ The entire core is `~1000 lines of Python`
 | **Skills** | One-command workflows: `/review`, `/commit`, `/test`, `/simplify` | [docs &rarr;](docs/skills.md) |
 | **Sandbox** | Bubblewrap isolation for bash commands | [docs &rarr;](docs/sandbox.md) |
 
+See [docs/examples/citorigin](docs/examples/citorigin/README.md) for a
+project-specific custom skill example.
+
 ---
 
 ## Quick Start
