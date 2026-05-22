@@ -82,6 +82,16 @@ Running skill: /deploy…
 | `~/.cc-mini/skills/` | Personal skills, all projects |
 | `<project>/.cc-mini/skills/` | Project skills, share with team |
 
+## Project-Specific Skill Examples
+
+Some custom skills are tied to a particular repository layout or CLI workflow.
+Those are usually better shared as examples than as bundled built-in skills.
+
+- [CitOrigin custom skill example](./examples/citorigin/README.md)
+
+The CitOrigin example shows how a repository can ship a reusable custom skill
+for a domain-specific claim-evidence auditing workflow.
+
 ## SKILL.md Frontmatter
 
 ```markdown
